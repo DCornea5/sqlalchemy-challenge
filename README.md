@@ -24,11 +24,12 @@ Use Flask to create an API and define routes to find precipitation measurements 
 ### Temperature Analysis
 ### Daily Rainfall Average and Daily Temperature Normals
 
-temp_analysis_bonus_1_starter
-temp_analysis_bonus_2_starter
+![Temperature analysis I](temp_analysis_bonus_1_starter.ipynb)
+
+![Temperature analysis I](temp_analysis_bonus_2_starter.ipynb)
 
 Analyse June and December temperature across all years in the dataset.
 Use an unpair T-test to analyse the average temperatures.
-![Trip_Avg_Temp](Trip_Avg_Temp)
+![Trip_Avg_Temp](Output/Trip_Avg_Temp.png)
 
 ![daily-normals](Output/Daily_normals.png)
